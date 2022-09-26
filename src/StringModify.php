@@ -1,6 +1,6 @@
 <?php
 
-namespace Oleh\MyComposerLib;
+namespace Olehandrei\MyComposerLib;
 
 class StringModify
 {

@@ -1,9 +1,9 @@
 {
-    "name": "oleh/my-composer-lib",
+    "name": "olehandrei/my-composer-lib",
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Oleh\\MyComposerLib\\": "src/"
+            "Olehandrei\\MyComposerLib\\": "src/"
         }
     },
     "authors": [

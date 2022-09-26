@@ -9,7 +9,7 @@
 ## Установка
 
 ~~~bash
-$ composer require oleh/my-composer-lib
+$ composer require Olehandrei/my-composer-lib
 ~~~
 
 ## Использование
