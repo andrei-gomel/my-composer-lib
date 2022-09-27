@@ -12,5 +12,7 @@
             "email": "andr_vol@mail.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": "^7.4"
+    }
 }
